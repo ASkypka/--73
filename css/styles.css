@@ -1,4 +1,5 @@
-body {
-    background-color: black;
-    color: blue;
+body {}
+
+.list {
+    list-style: none;
 }
